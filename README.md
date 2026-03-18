@@ -107,8 +107,3 @@ Performed the following checks:
 
 ## Author
 Sanjana
-
----
-
-## ⭐ Conclusion
-This project demonstrates how SQL can be used for real-world data analysis and business decision-making.
